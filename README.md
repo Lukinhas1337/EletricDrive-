@@ -45,3 +45,33 @@ O projeto foi elaborado com arduino virtual criando uma Iot com base no node-red
 
   ## Aplicativos e Sites 💻
 
+- Simulide
+    <p>
+        <img src= "assets/simulide.png" widht= "200" height= "300" >
+    </p>
+- Arduino IDE
+
+    <p>
+        <img src= "assets/arduino.png" widht= "200" height= "300" >
+    </p>
+- COM0COM
+    <p>
+    <img src= "assets/com0com.png" widht= "200" height= "300" >
+    </p>
+- Node-Red
+
+    <p>
+    <img src= "assets/node-red.png" widht= "200" height= "300" >
+    </p>
+- HiveMQ
+
+    <p>
+    <img src= "assets/hivemq.png" widht= "200" height= "300" >
+    </p>
+- Tago.io
+
+    <p>
+    <img src= "assets/tago.io.png" widht= "200" height= "300" >
+    </p>
+
+
